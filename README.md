@@ -11,6 +11,6 @@ My skills include:
   <img src="https://github.com/pandas-dev/pandas/blob/761bceb77d44aa63b71dda43ca46e8fd4b9d7422/web/pandas/static/img/pandas.svg" width="100" height="100" alt="scikit-learn logo" style="margin: 10px;">
   <img src="https://numpy.org/images/logo.svg" width="100" height="100" alt="scikit-learn logo" style="margin: 10px;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="110" height="70" alt="scikit-learn logo" style="margin: 10px;">
-  <img src="https://www.python.org/static/community_logos/python-logo-generic.svg" width="110" height="80" alt="scikit-learn logo" style="margin: 10px;">
-  <img src="file:///C:/Users/user/Downloads/streamlit-logo-primary-colormark-darktext.svg" width="110" height="70" alt="scikit-learn logo" style="margin: 10px;">
+  <img src="https://www.python.org/static/community_logos/python-logo-generic.svg" width="110" height="80" alt="python" style="margin: 10px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" width="110" height="70" alt="scikit-learn logo" style="margin: 10px;">
 </div>
