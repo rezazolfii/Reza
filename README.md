@@ -10,5 +10,5 @@ My skills include:
   <img src="https://github.com/valohai/ml-logos/blob/master/keras.svg" width="100" height="100" alt="scikit-learn logo" style="margin: 10px;">
   <img src="https://github.com/pandas-dev/pandas/blob/761bceb77d44aa63b71dda43ca46e8fd4b9d7422/web/pandas/static/img/pandas.svg" width="100" height="100" alt="scikit-learn logo" style="margin: 10px;">
   <img src="https://numpy.org/images/logo.svg" width="100" height="100" alt="scikit-learn logo" style="margin: 10px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="100" height="100" alt="scikit-learn logo" style="margin: 10px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="110" height="70" alt="scikit-learn logo" style="margin: 10px;">
 </div>
